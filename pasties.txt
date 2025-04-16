@@ -76,6 +76,7 @@
 .snippleaf.com/
 .snipplr.com/
 .sprunge.us/
+.temp.sh/
 .tempisite.com/
 .termbin.com/
 .textbins.online/
