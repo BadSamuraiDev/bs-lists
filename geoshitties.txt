@@ -56,3 +56,4 @@
 .wixsite.com/
 .yolasite.com/
 s3.amazonaws.com/appforest_uf/
+sites.google.com/view/
