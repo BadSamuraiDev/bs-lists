@@ -31,6 +31,7 @@
 .mywebcommunity.org/
 .neocities.org/
 .onlinewebshop.net/
+.ondigitalocean.app/
 .onrender.com/
 .pages.dev/
 .pantheonsite.io/
@@ -46,6 +47,7 @@
 .w3spaces.com/
 .wcomhost.com/
 .web.app/
+.web.core.windows.net/
 .webador.com/
 .webflow.io/
 .webs.com/
