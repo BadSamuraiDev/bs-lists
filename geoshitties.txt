@@ -36,6 +36,7 @@
 .ondigitalocean.app/
 .onrender.com/
 .pages.dev/
+.pagina.pro/
 .pantheonsite.io/
 .rf.gd/
 .runhosting.com/
