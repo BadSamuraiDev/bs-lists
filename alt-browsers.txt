@@ -154,6 +154,7 @@
 .polaritybrowser.netlify.app/
 .kristall.random-projects.net/
 .wavebrowser.co/
+.wavesor.com/
 .github.com/BonBon-exchange/bonbon-browser/
 .sourceforge.net/projects/galeon/
 .surf.suckless.org/
