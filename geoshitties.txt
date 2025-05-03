@@ -30,6 +30,7 @@
 .makeforms.io/
 .medianewsonline.com/
 .myartsonline.com/
+.myftpupload.com/
 .mywebcommunity.org/
 .neocities.org/
 .onlinewebshop.net/
