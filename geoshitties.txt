@@ -27,6 +27,7 @@
 .hostfree.pw/
 .hstn.me/
 .iceiy.com/
+.infinityfreeapp.com/
 .makeforms.io/
 .medianewsonline.com/
 .myartsonline.com/
