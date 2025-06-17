@@ -214,3 +214,4 @@
 .github.com/PocketStudios/Pocket-Browser/
 .synth.app/
 .diabrowser.com/
+.a8silo.com/
