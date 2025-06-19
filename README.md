@@ -7,6 +7,7 @@ Lists are in Zscaler format to make it clear if it's a subdomain block (leading 
 |  File  |  Usage | Description  |  Tags  |
 |--------|------------------|---------------|--------| 
 | [alt-browsers.txt](./alt-browsers.txt) | Block | URL list to alternate browsers including S3s, repos and download locations | browser proxy vpn tor |
+| [cloud-ide.txt](./cloud-ide.txt) | Block, Warning | URL list of cloud-based or browser-based IDEs | C2 IDE DLP |
 | [file-mirrors.txt](./file-mirrors.txt) | Block | URL list of higher risk 3rd party file mirrors | file filez mirror spyware |
 | [living-off-trusted-tunnels.txt](./living-off-trusted-tunnels.txt) | Block | URL list of services often abused | tunnel LOTT LOTS | 
 | [login-cloud-service-providers.txt](./login-cloud-service-providers.txt) | Block, Warning | URL of logins to common Cloud Service Providers that may not be authorized in your organization | CSP login CASB DLP | 
