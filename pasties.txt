@@ -18,6 +18,7 @@
 .dpaste.com/
 .dpaste.org/
 .everfall.com/paste/
+.file.io/
 .filebin.net/
 .friendpaste.com/
 .gisto.org/
