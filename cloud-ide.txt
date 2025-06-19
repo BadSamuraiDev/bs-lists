@@ -1,0 +1,15 @@
+.codeanywhere.com/
+.codeocean.com/
+.codesandbox.io/
+.codespaces.new/
+.codetasty.com/
+.codio.com/
+.deepnote.com/
+.github.com/codespaces/
+.godbolt.org/
+.hex.tech/
+.jsfiddle.net/
+.onlinegdb.com/
+.paiza.io/
+.pythonanywhere.com/
+.shiftedit.net/
