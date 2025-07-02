@@ -44,6 +44,7 @@ mam
 mcf
 mdb
 mde
+mmc
 msc
 msh
 msh1
@@ -77,6 +78,7 @@ pyzw
 rar
 rdp
 reg
+rtf
 scf
 scr
 sct
@@ -90,6 +92,7 @@ vbe
 vbp
 vbs
 vhd
+vhdx
 vxd
 website
 ws
