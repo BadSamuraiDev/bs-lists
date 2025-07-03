@@ -34,3 +34,10 @@ oracle.com/cloud/sign-in.html
 signup.cloud.oracle.com/
 console.cloud.vmware.com
 login.linode.com/
+secure.backblaze.com/
+console.upstash.com/
+console.wasabisys.com/
+auth.equinix.com/
+arubacloud.com/login.aspx
+transip.nl/cp/
+my.fuga.cloud/
