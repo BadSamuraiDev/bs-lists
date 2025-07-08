@@ -14,8 +14,8 @@ Lists are in standard domain formats, but sometimes PAN or Zscaler format to mak
 | [login-cloud-service-providers.txt](./login-cloud-service-providers.txt) | Block, Warning | URL of logins to common Cloud Service Providers that may not be authorized in your organization | CSP login CASB DLP | 
 | [login-registrar.txt](./login-registrar.txt) | Block | URL list of mostly North American ICANN accredited registrar logins that may not be authorized in your organization | domain ICANN login registrar |
 | [geoshitties.txt](./geoshitties.txt) | Block, Warning | URL list of free domain-less web hosting commonly used for phishing and credential harvesting | geocities free hosting phishing credential harvesting |
-| [open-redirect.txt](.open-redirect.txt) | Warning | URL list of open redirects commonly abused on legitimate platforms | LOTS redirect URL |
-| [online-pdf-editors.txt](.online-pdf-editors.txt) | Block, Warning | URL list of common web-based PDF editors and converters | PDF DLP converter editor |
+| [open-redirect.txt](./open-redirect.txt) | Warning | URL list of open redirects commonly abused on legitimate platforms | LOTS redirect URL |
+| [online-pdf-editors.txt](./online-pdf-editors.txt) | Block, Warning | URL list of common web-based PDF editors and converters | PDF DLP converter editor |
 | [pasties.txt](./pasties.txt) | Block | URL list of pastebin clones | pastebin c2 c3 threat malware |
 | [sensitive-file-extensions.txt](./sensitive-file-extensions.txt) | Block, Strip | File extension list of common IAC, DevOps and admin where credentials, keys and token may exist | DLP email gateway credential exfil |
 
