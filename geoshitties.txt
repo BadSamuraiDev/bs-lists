@@ -28,6 +28,7 @@
 .hstn.me/
 .iceiy.com/
 .infinityfreeapp.com/
+.lovable.app/
 .makeforms.io/
 .medianewsonline.com/
 .myartsonline.com/
