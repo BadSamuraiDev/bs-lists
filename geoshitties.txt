@@ -8,10 +8,12 @@
 .canva.site/
 .co.nf/
 .dreamhosters.com/
+.dora.run/
 .editorx.io/
 .epizy.com/
 .firebaseapp.com/
 .forms.app/
+.framer.ai/
 .freehostia.com/
 .freehosting.com/
 .freewebspace.com/
@@ -28,6 +30,7 @@
 .hstn.me/
 .iceiy.com/
 .infinityfreeapp.com/
+.jimdosite.com/
 .lovable.app/
 .makeforms.io/
 .medianewsonline.com/
@@ -46,9 +49,12 @@
 .simvoly.com/
 .sitebeat.crazydomains.com/
 .sites123.me/
+.strikingly.com/
 .surge.sh/
 .tiiny.site/
 .typedream.app/
+.ubpages.com/
+.unbouncepages.com/
 .vercel.app/
 .w3spaces.com/
 .wcomhost.com/
@@ -56,6 +62,7 @@
 .web.core.windows.net/
 .webador.com/
 .webflow.io/
+.webwave.me/
 .webs.com/
 .weebly.com/
 .weeblysite.com/
