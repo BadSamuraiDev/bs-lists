@@ -7,6 +7,7 @@
 .business.site/
 .canva.site/
 .co.nf/
+.daftpage.com/
 .dreamhosters.com/
 .dora.run/
 .editorx.io/
