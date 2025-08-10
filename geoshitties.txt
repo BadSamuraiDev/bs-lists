@@ -75,6 +75,7 @@
 .webmo.fr/
 .webs.com/
 .webstarts.com/
+.weblium.site/
 .weebly.com/
 .weeblysite.com/
 .wixsite.com/
