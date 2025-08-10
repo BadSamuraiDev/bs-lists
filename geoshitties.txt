@@ -62,6 +62,7 @@
 .typedream.app/
 .ubpages.com/
 .unbouncepages.com/
+.ucraft.ai/
 .vercel.app/
 .w3spaces.com/
 .wcomhost.com/
