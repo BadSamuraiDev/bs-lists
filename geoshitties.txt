@@ -4,6 +4,7 @@
 .atspace.cc/
 .atwebpages.com/
 .blogspot.com/
+.boxmode.io/
 .bravesites.com/
 .business.site/
 .canva.site/
