@@ -39,6 +39,7 @@
 .lovable.app/
 .makeforms.io/
 .medianewsonline.com/
+.mozellosite.com/
 .myartsonline.com/
 .myftpupload.com/
 .mywebcommunity.org/
