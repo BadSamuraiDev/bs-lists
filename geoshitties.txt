@@ -66,6 +66,7 @@
 .wcomhost.com/
 .web.app/
 .web.core.windows.net/
+.webnode.page/
 .webador.com/
 .webflow.io/
 .webwave.me/
