@@ -3,6 +3,7 @@
 .activehosted.com/
 .atspace.cc/
 .atwebpages.com/
+.b12sites.com/
 .blogspot.com/
 .boxmode.io/
 .bravesites.com/
