@@ -53,6 +53,7 @@
 .simvoly.com/
 .sitebeat.crazydomains.com/
 .sites123.me/
+.start.page/
 .strikingly.com/
 .surge.sh/
 .tiiny.site/
