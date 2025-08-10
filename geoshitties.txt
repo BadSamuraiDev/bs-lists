@@ -78,5 +78,6 @@
 .weeblysite.com/
 .wixsite.com/
 .yolasite.com/
+.yourwebsitespace.com/
 s3.amazonaws.com/appforest_uf/
 sites.google.com/view/
