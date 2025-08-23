@@ -20,6 +20,7 @@
 .flow.page/
 .forms.app/
 .framer.ai/
+.framer.app/
 .freehostia.com/
 .freehosting.com/
 .freewebspace.com/
