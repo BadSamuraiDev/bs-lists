@@ -82,5 +82,6 @@
 .wixsite.com/
 .yolasite.com/
 .yourwebsitespace.com/
+.zeabur.app/
 s3.amazonaws.com/appforest_uf/
 sites.google.com/view/
