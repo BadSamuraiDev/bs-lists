@@ -46,6 +46,7 @@
 .myftpupload.com/
 .mywebcommunity.org/
 .neocities.org/
+.on-fleek.app/
 .onlinewebshop.net/
 .ondigitalocean.app/
 .onrender.com/
