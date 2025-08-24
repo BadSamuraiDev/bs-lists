@@ -47,6 +47,7 @@
 .mozellosite.com/
 .myartsonline.com/
 .myftpupload.com/
+.mystrikingly.com/
 .mywebcommunity.org/
 .neocities.org/
 .on-fleek.app/
