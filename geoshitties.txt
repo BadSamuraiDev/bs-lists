@@ -6,6 +6,7 @@
 .atwebpages.com/
 .b12sites.com/
 .blogspot.com/
+.bolt.host/
 .boxmode.io/
 .bravesites.com/
 .business.site/
