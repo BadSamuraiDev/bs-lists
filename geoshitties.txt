@@ -11,6 +11,7 @@
 .bolt.host/
 .boxmode.io/
 .bravesites.com/
+.bubbleapps.io/
 .business.site/
 .canva.site/
 .co.nf/
