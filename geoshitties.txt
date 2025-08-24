@@ -17,6 +17,7 @@
 .editorx.io/
 .epizy.com/
 .firebaseapp.com/
+.flazio.com/
 .flow.page/
 .forms.app/
 .framer.ai/
