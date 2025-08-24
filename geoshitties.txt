@@ -13,9 +13,11 @@
 .bravesites.com/
 .bubbleapps.io/
 .business.site/
+.c1.is/
 .canva.site/
 .co.nf/
 .codeanyapp.com/
+.cu.ma/
 .daftpage.com/
 .dreamhosters.com/
 .dora.run/
@@ -57,6 +59,7 @@
 .onlinewebshop.net/
 .ondigitalocean.app/
 .onrender.com/
+.onweb.im/
 .oursite.co/
 .pages.dev/
 .pagina.pro/
@@ -71,6 +74,7 @@
 .start.page/
 .strikingly.com/
 .surge.sh/
+.thats.im/
 .tiiny.site/
 .typedream.app/
 .ubpages.com/
