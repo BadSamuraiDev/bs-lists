@@ -1,5 +1,6 @@
 .000webhostapp.com/
 .50webs.com/
+.8b.io/
 .activehosted.com/
 .atspace.cc/
 .atwebpages.com/
