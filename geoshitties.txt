@@ -55,6 +55,7 @@
 .pages.dev/
 .pagina.pro/
 .pantheonsite.io/
+.renderforestsites.com/
 .rf.gd/
 .runhosting.com/
 .simvoly.com/
