@@ -61,6 +61,7 @@
 .simvoly.com/
 .sitebeat.crazydomains.com/
 .sites123.me/
+.soloist.ai/
 .start.page/
 .strikingly.com/
 .surge.sh/
