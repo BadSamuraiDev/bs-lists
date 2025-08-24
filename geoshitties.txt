@@ -1,4 +1,5 @@
 .000webhostapp.com/
+.10web.site/
 .50webs.com/
 .8b.io/
 .activehosted.com/
