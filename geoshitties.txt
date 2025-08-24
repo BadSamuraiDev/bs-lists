@@ -52,6 +52,7 @@
 .onlinewebshop.net/
 .ondigitalocean.app/
 .onrender.com/
+.oursite.co/
 .pages.dev/
 .pagina.pro/
 .pantheonsite.io/
