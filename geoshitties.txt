@@ -68,6 +68,7 @@
 .rf.gd/
 .runhosting.com/
 .simvoly.com/
+.site44.com/
 .sitebeat.crazydomains.com/
 .sites123.me/
 .soloist.ai/
