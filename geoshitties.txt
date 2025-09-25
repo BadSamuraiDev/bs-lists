@@ -12,6 +12,7 @@
 .boxmode.io/
 .bravesites.com/
 .bubbleapps.io/
+.builder-preview.com/
 .business.site/
 .c1.is/
 .canva.site/
