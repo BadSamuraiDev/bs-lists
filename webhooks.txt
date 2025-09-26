@@ -1,0 +1,8 @@
+.webhook.site/
+.pipedream.com/
+.hookbin.com/
+.beeceptor.com/
+.svix.com/
+.mockly.me/
+.mockoon.app/
+.wiremock.cloud/
