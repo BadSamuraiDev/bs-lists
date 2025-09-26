@@ -2,7 +2,12 @@
 .pipedream.com/
 .hookbin.com/
 .beeceptor.com/
+.hookdeck.com/
 .svix.com/
 .mockly.me/
 .mockoon.app/
+.requestcatcher.com/
+.requestinspector.com/
+.webhook.cool/
+.webhookrelay.com/
 .wiremock.cloud/
