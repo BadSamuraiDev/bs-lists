@@ -18,6 +18,7 @@ Lists are in standard domain formats, but sometimes PAN or Zscaler format to mak
 | [online-pdf-editors.txt](./online-pdf-editors.txt) | Block, Warning | URL list of common web-based PDF editors and converters | PDF DLP converter editor |
 | [pasties.txt](./pasties.txt) | Block | URL list of pastebin clones | pastebin c2 c3 threat malware |
 | [sensitive-file-extensions.txt](./sensitive-file-extensions.txt) | Block, Strip | File extension list of common IAC, DevOps and admin where credentials, keys and token may exist | DLP email gateway credential exfil |
+| [webhooks.txt](./webhooks.txt) | Block | Webhook testing and relay SaaS | exfil webhook |
 
 ## Purpose
 
