@@ -89,6 +89,7 @@
 .web.core.windows.net/
 .webnode.page/
 .webador.com/
+.webadorsite.com/
 .webflow.io/
 .webwave.dev/
 .webwave.me/
