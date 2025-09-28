@@ -27,6 +27,7 @@
 .firebaseapp.com/
 .flazio.com/
 .flow.page/
+.fly.dev/
 .forms.app/
 .framer.ai/
 .framer.app/
