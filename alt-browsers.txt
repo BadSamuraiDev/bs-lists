@@ -215,5 +215,6 @@
 .synth.app/
 .diabrowser.com/
 .a8silo.com/
+.servo.org/
 .perplexity.ai/download-comet/
 comet.perplexity.ai/
