@@ -7,7 +7,6 @@
 .postb.in/
 .putsreq.com/
 .requestcatcher.com/
-.requestcatcher.com/
 .requestinspector.com/
 .svix.com/
 .webhook.cool/
