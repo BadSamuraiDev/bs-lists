@@ -16,6 +16,7 @@
 .business.site/
 .c1.is/
 .canva.site/
+.choreoapps.dev/
 .co.nf/
 .codeanyapp.com/
 .cu.ma/
