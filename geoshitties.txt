@@ -47,6 +47,7 @@
 .hostfree.pw/
 .hstn.me/
 .iceiy.com/
+.infinityfree.me/
 .infinityfreeapp.com/
 .jimdosite.com/
 .lovable.app/
