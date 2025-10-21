@@ -219,3 +219,7 @@
 .perplexity.ai/download-comet/
 comet.perplexity.ai/
 .operaneon.com/
+.oaistatic.com/atlas/
+.github.com/LadybirdBrowser/
+.servo.org/
+.github.com/servo/servo/
