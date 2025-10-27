@@ -222,3 +222,7 @@ comet.perplexity.ai/
 .oaistatic.com/atlas/
 .github.com/LadybirdBrowser/
 .github.com/servo/servo/
+.github.com/adonais/iceweasel/
+.sourceforge.net/projects/libportable/files/Iceweasel/
+.sourceforge.net/projects/iw4win/
+.github.com/ungoogled-software/ungoogled-chromium/
