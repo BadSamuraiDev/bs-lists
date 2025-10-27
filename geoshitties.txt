@@ -17,6 +17,7 @@
 .c1.is/
 .canva.site/
 .choreoapps.dev/
+.cloudaccess.host/
 .co.nf/
 .codeanyapp.com/
 .cu.ma/
