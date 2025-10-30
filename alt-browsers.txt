@@ -226,3 +226,4 @@ comet.perplexity.ai/
 .sourceforge.net/projects/libportable/files/Iceweasel/
 .sourceforge.net/projects/iw4win/
 .github.com/ungoogled-software/ungoogled-chromium/
+.genspark.ai/
