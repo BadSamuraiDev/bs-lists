@@ -24,6 +24,7 @@
 .daftpage.com/
 .dreamhosters.com/
 .dora.run/
+.edgeone.app/
 .editorx.io/
 .epizy.com/
 .firebaseapp.com/
