@@ -109,6 +109,7 @@
 .weebly.com/
 .weeblysite.com/
 .wixsite.com/
+.wixstudio.com/
 .yolasite.com/
 .yourwebsitespace.com/
 .zeabur.app/
