@@ -62,6 +62,7 @@
 .mystrikingly.com/
 .mywebcommunity.org/
 .neocities.org/
+.odoo.com/
 .on-fleek.app/
 .onlinewebshop.net/
 .ondigitalocean.app/
