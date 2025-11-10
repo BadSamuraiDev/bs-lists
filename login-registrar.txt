@@ -1,4 +1,5 @@
 .ascio.com/wp-login.php
+portal.ascio.com/
 auth.hostinger.com/
 bigrock.in/login/
 .bizcn.com/login/
@@ -8,6 +9,8 @@ cp.blacknight.com/
 domain.com/my-account/
 .domainpeople.com/userAdmin/
 .dynadot.com/account/
+cp.enom.com/
+my.exacthosting.com/
 .hostgator.com/my-account/
 .hover.com/signin/
 .identity.digital/
