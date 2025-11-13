@@ -1,0 +1,12 @@
+.getpantry.cloud/
+.jsonbin.io/
+.jsonbin.net/
+.jsonblob.com/
+.jsonkeeper.com/
+.jsonsilo.com/
+.jsonstorage.net/
+.kvdb.io/
+.myjson.online/
+.npoint.io/
+.json.psty.io/
+.my-json-server.typicode.com/
