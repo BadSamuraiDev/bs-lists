@@ -6,10 +6,14 @@
 .codio.com/
 .deepnote.com/
 .github.com/codespaces/
+.glot.io/
 .godbolt.org/
 .hex.tech/
+.ideone.com/
 .jsfiddle.net/
+.onecompiler.com/
 .onlinegdb.com/
 .paiza.io/
+.paiza.jp/
 .pythonanywhere.com/
 .shiftedit.net/
