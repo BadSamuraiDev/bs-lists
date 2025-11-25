@@ -1,0 +1,17 @@
+.admeducation.com/
+.aionote.com/
+.codebin.cc/
+.coderstool.com/share-code-snippets/
+.copyandshare.com/
+.ctrlv.codes/
+.ctxt.io/
+.devbeaver.com/paste-and-share-tool/
+.fragbin.com/
+.mypaste.dev/
+.ofcode.org/
+.pastefy.app/
+.pastepool.com/
+.pasteshare.ninja/
+.pastevoid.com/
+.pastezen.com/
+.pythonmorsels.com/
