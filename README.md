@@ -7,17 +7,20 @@ Lists are in standard domain formats, but sometimes PAN or Zscaler format to mak
 |  File  |  Usage | Description  |  Tags  |
 |--------|------------------|---------------|--------| 
 | [alt-browsers.txt](./alt-browsers.txt) | Block | URL list to alternate browsers including S3s, repos and download locations | browser proxy vpn tor |
+| [chat-hooks.txt](./chat-hooks.txt) | Block | Chat platform hook and API URLs | C2 exfil |
 | [cloud-ide.txt](./cloud-ide.txt) | Block, Warning | URL list of cloud-based or browser-based IDEs | C2 IDE DLP |
 | [email-file-extensions.txt](./email-file-extensions.txt) | Block | File extension list most orgs likely do not want in their SEG | file extension email gateway |
 | [file-mirrors.txt](./file-mirrors.txt) | Block | URL list of higher risk 3rd party file mirrors | file filez mirror spyware |
+| [geoshitties.txt](./geoshitties.txt) | Block, Warning | URL list of free domain-less web hosting commonly used for phishing and credential harvesting | geocities free hosting phishing credential harvesting |
+| [json-storage.txt](./json-storage.txt) | Block, Warning | URL list of free/low-cost JSON storage aaS - basically JSON pastebins | json free hosting exfil c2 pastebin |
 | [living-off-trusted-tunnels.txt](./living-off-trusted-tunnels.txt) | Block | URL list of services often abused | tunnel LOTT LOTS | 
 | [login-cloud-service-providers.txt](./login-cloud-service-providers.txt) | Block, Warning | URL of logins to common Cloud Service Providers that may not be authorized in your organization | CSP login CASB DLP | 
 | [login-registrar.txt](./login-registrar.txt) | Block | URL list of mostly North American ICANN accredited registrar logins that may not be authorized in your organization | domain ICANN login registrar |
-| [geoshitties.txt](./geoshitties.txt) | Block, Warning | URL list of free domain-less web hosting commonly used for phishing and credential harvesting | geocities free hosting phishing credential harvesting |
-| [json-storage.txt](./json-storage.txt) | Block, Warning | URL list of free/low-cost JSON storage aaS - basically JSON pastebins | json free hosting exfil c2 pastebin |
-| [open-redirect.txt](./open-redirect.txt) | Warning | URL list of open redirects commonly abused on legitimate platforms | LOTS redirect URL |
 | [online-pdf-editors.txt](./online-pdf-editors.txt) | Block, Warning | URL list of common web-based PDF editors and converters | PDF DLP converter editor |
-| [pasties.txt](./pasties.txt) | Block | URL list of pastebin clones | pastebin c2 c3 threat malware |
+| [open-redirect.txt](./open-redirect.txt) | Warning | URL list of open redirects commonly abused on legitimate platforms | LOTS redirect URL |
+| [pastebins-code.txt](./pastebins-code.txt) | Block | URL list of pastebins aimed at sharing code | pastebin c2 threat malware exposure coding |
+| [pastebins.txt](./pastebins.txt) | Block | URL list of pastebin clones | pastebin c2 threat malware exposure |
+| [risky-devtools.txt](./risky-devtools.txt) | Block / Warning | URL list of developer tools posing secret exposure and shadow dev risks | coding developer exposure |
 | [sensitive-file-extensions.txt](./sensitive-file-extensions.txt) | Block, Strip | File extension list of common IAC, DevOps and admin where credentials, keys and token may exist | DLP email gateway credential exfil |
 | [webhooks.txt](./webhooks.txt) | Block | Webhook testing and relay SaaS | exfil webhook |
 
