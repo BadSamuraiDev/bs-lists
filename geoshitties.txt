@@ -60,6 +60,7 @@
 .myartsonline.com/
 .myftpupload.com/
 .mystrikingly.com/
+.my.site.com/
 .mywebcommunity.org/
 .neocities.org/
 .odoo.com/
