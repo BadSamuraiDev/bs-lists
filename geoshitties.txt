@@ -94,6 +94,7 @@
 .ukit.me/
 .vercel.app/
 .w3spaces.com/
+.wasmer.app/
 .wcomhost.com/
 .web.app/
 .web.core.windows.net/
