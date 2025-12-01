@@ -61,6 +61,7 @@
 .mozellosite.com/
 .myartsonline.com/
 .myftpupload.com/
+.myfunnelish.com/
 .mystrikingly.com/
 .my.site.com/
 .mywebcommunity.org/
