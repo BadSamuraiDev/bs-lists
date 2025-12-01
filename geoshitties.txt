@@ -25,6 +25,7 @@
 .dreamhosters.com/
 .dora.run/
 .edgeone.app/
+.edgeone.dev/
 .editorx.io/
 .epizy.com/
 .firebaseapp.com/
