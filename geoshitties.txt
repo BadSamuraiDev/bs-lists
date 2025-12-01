@@ -38,6 +38,7 @@
 .framer.app/
 .freehostia.com/
 .freehosting.com/
+.freesite.host/
 .freewebspace.com/
 .gamma.app/docs/
 .gamma.site/
@@ -53,6 +54,7 @@
 .iceiy.com/
 .infinityfree.me/
 .infinityfreeapp.com/
+.jdevcloud.com/
 .jimdosite.com/
 .live-website.com/
 .lovable.app/
@@ -115,6 +117,7 @@
 .weeblysite.com/
 .wixsite.com/
 .wixstudio.com/
+.wpdevcloud.com/
 .yolasite.com/
 .yourwebsitespace.com/
 .zeabur.app/
