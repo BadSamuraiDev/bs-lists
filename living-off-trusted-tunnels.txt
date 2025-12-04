@@ -22,6 +22,7 @@
 .staqlab-tunnel.com/
 .staqlab.com/
 .telebit.fun/
+.tunnl.gg/
 .pinggy.link/
 .tuns.sh/
 .pitunnel.com/
