@@ -130,6 +130,7 @@
 .web1337.net/
 .webador.com/
 .webadorsite.com/
+.webcindario.com/
 .webflow.io/
 .weblium.site/
 .webmo.fr/
