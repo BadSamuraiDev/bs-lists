@@ -43,6 +43,7 @@
 .forms.app/
 .framer.ai/
 .framer.app/
+.framer.website/
 .freehostia.com/
 .freehosting.com/
 .freesite.host/
