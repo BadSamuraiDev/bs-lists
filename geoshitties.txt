@@ -27,6 +27,7 @@
 .cloudaccess.host/
 .co.nf/
 .codeanyapp.com/
+.created.app/
 .cu.ma/
 .daftpage.com/
 .dora.run/
