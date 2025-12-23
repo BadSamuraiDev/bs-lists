@@ -3,6 +3,7 @@
 .10web.site/
 .22web.org/
 .2kool4u.net/
+.4everland.app/
 .50webs.com/
 .66ghz.com/
 .8b.io/
