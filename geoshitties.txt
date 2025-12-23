@@ -19,6 +19,7 @@
 .bravesites.com/
 .bubbleapps.io/
 .builder-preview.com/
+.builderallsite.com/
 .business.site/
 .bytehost7.com/
 .c1.is/
