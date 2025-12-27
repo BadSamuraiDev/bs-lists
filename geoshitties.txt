@@ -54,6 +54,7 @@
 .freewebspace.com/
 .gamma.app/docs/
 .gamma.site/
+.getresponsesite.com/
 .gitbook.io/
 .github.io/
 .glitch.me/
