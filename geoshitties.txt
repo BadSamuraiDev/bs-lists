@@ -25,6 +25,7 @@
 .bytehost7.com/
 .c1.is/
 .canva.site/
+.carrd.co/
 .choreoapps.dev/
 .cloudaccess.host/
 .co.nf/
