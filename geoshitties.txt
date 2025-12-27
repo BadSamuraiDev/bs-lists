@@ -122,6 +122,7 @@
 .talk4fun.net/
 .thats.im/
 .tiiny.site/
+.tilda.ws/
 .totalh.net/
 .typedream.app/
 .ubpages.com/
