@@ -67,6 +67,7 @@
 .hstn.me/
 .html-5.me/
 .humorme.info/
+.hyperphp.com/
 .iblogger.org/
 .iceiy.com/
 .infinityfree.me/
