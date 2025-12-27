@@ -77,6 +77,7 @@
 .jdevcloud.com/
 .jimdosite.com/
 .joomla-host.org/
+.kit.com/
 .likesyou.org/
 .live-website.com/
 .lovable.app/
