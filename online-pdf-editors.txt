@@ -19,9 +19,11 @@ docfly.com
 dochub.com
 documentgenius.com
 drawboard.com
+easepdf.com
 easypdf.com
 editpdf.online
 edit-pdf-online.com
+files-editor.com
 formspal.com
 formswift.com
 foxit.com
@@ -37,6 +39,7 @@ jotform.com
 legaltemplates.net
 lightpdf.com
 luminpdf.com
+mergedpdf.com
 monica.im
 ocr2edit.com
 online.visual-paradigm.com
@@ -75,12 +78,15 @@ pdfescape.com
 pdffiller.com
 pdfflipbook.com
 pdfforge.org
+pdfgear.com
 pdfguru.com
+pdfhouse.com
 pdfjoiner.com
 pdfliner.com
 pdfmodify.com
 pdfmyurl.com
 pdfpro.co
+pdfq.com
 pdfquick.com
 pdfresizer.com
 pdfrun.com
@@ -107,4 +113,5 @@ wps.com
 xodo.com
 youpdf.com
 zamzar.com
+zendocs.com
 zoho.com/pdfeditor/
