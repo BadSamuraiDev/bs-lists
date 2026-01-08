@@ -157,6 +157,7 @@
 .wixsite.com/
 .wixstudio.com/
 .wpdevcloud.com/
+.wuaze.com/
 .yolasite.com/
 .yourwebsitespace.com/
 .zeabur.app/
