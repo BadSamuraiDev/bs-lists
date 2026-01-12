@@ -98,6 +98,7 @@
 .my-style.in/
 .mywebcommunity.org/
 .neocities.org/
+.netsons.org/
 .nichesite.org/
 .odoo.com/
 .ondigitalocean.app/
