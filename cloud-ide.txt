@@ -17,3 +17,4 @@
 .paiza.jp/
 .pythonanywhere.com/
 .shiftedit.net/
+.slater.app/
