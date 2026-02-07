@@ -118,6 +118,7 @@
 .simvoly.com/
 .site44.com/
 .sitebeat.crazydomains.com/
+.siteblocks.com/
 .sitelium.site/
 .sites123.me/
 .social-networking.me/
