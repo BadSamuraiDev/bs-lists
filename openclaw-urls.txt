@@ -1,0 +1,11 @@
+.clawd.bot/
+.molt.bot/
+.openclaw.bot/
+.openclaw.ai/
+.clawdhub.com/
+.github.com/openclaw/
+registry.npmjs.org/openclaw/
+hub.docker.com/r/alpine/openclaw/
+hub.docker.com/r/moltbot/
+.github.com/cloudflare/moltworker/
+.sourceforge.net/projects/openclaw.mirror/
