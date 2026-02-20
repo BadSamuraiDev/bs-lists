@@ -1,0 +1,13 @@
+.enclave.io/
+.firezone.dev/
+.headscale.net/
+.husarnet.com/
+.netbird.io/
+.netmaker.io/
+.openziti.io/
+.tailscale.com/
+.twingate.com/
+.zerotier.com/
+.github.com/slackhq/nebula/
+.github.com/juanfont/headscale/
+.github.com/webmeshproj/
