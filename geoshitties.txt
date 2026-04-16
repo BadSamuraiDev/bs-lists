@@ -14,6 +14,8 @@
 .atspace.cc/
 .atwebpages.com/
 .b12sites.com/
+.b4a.app/
+.b4a.io/
 .base44.app/
 .blogspot.com/
 .bolt.host/
@@ -82,6 +84,7 @@
 .joomla-host.org/
 .kesug.com/
 .kit.com/
+.leapcell.dev/
 .likesyou.org/
 .live-website.com/
 .lovable.app/
@@ -107,6 +110,7 @@
 .ondigitalocean.app/
 .onepage.me/
 .on-fleek.app/
+.on-forge.com/
 .onlinewebshop.net/
 .onrender.com/
 .onweb.im/
@@ -114,6 +118,7 @@
 .pages.dev/
 .pagina.pro/
 .pantheonsite.io/
+.railway.app/
 .renderforestsites.com/
 .replit.app/
 .rf.gd/
