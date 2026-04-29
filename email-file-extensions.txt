@@ -58,6 +58,7 @@ jnlp
 job
 js
 jse
+library-ms
 lnk
 mam
 mas
@@ -112,6 +113,7 @@ rtf
 scf
 scr
 sct
+search-ms
 settingcontent-ms
 shb
 shs
