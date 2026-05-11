@@ -3,5 +3,5 @@ discord.com/api/webhooks/
 discordapp.com/api/webhooks/
 .keybase.io/webhooks/
 api.twist.com/
-api.telegram.com/
+api.telegram.org/
 .zulipchat.com/api/
