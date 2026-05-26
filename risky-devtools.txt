@@ -1,9 +1,0 @@
-.devbeaver.com/
-.codebeautify.org/
-.jsonformatter.org/
-.coderstool.com/
-.codepad.app/
-.admeducation.com/
-.codepile.net/
-.jsoneditoronline.org/
-.8gwifi.org/
