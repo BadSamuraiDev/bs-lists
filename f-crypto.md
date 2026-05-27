@@ -8,6 +8,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 
 `.0xrpc.io/` <br />
 `.1rpc.io/` <br />
+`.alchemy.com/` <br />
 `.allnodes.com/` <br />
 `.allthatnode.com/` <br />
 `.ankr.com/` <br />
@@ -15,17 +16,21 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.blockeden.xyz/` <br />
 `.blockpi.io/` <br />
 `.blxrbdn.com/` <br />
+`.blockfrost.io` <br />
 `.chainbase.com/` <br />
 `.drpc.org/` <br />
 `.dysnix.com/` <br />
 `.exaion.com/` <br />
 `.f5nodes.com/` <br />
+`.flashbots.net/` <br />
 `.helius.dev/` <br />
+`.infura.io/` <br />
 `.lavanet.xyz/` <br />
 `.lavenderfive.com/` <br />
 `.llamanodes.com/` <br />
 `.llamarpc.com/` <br />
 `.merkle.io/` <br />
+`.metamask.io` <br />
 `.nirvanalabs.io/` <br />
 `.nodely.io/` <br />
 `.nodeshub.online/` <br />
@@ -33,6 +38,8 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.nownodes.io/` <br />
 `.omniatech.io/` <br />
 `.publicnode.com/` <br />
+`.quicknode.com/` <br />
+`.quicknode.pro/` <br />
 `.rpcfast.com/` <br />
 `.settlemint.com/` <br />
 `.shyft.network/` <br />
@@ -53,6 +60,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.cosmos.network/` <br />
 `.cronos.org/` <br />
 `.ethereum.org/` <br />
+`.ens.domains/` <br />
 `.gnosischain.com/` <br />
 `.harmony.one/` <br />
 `.kaia.io/` <br />
@@ -73,15 +81,24 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.zetachain.com/` <br />
 `.zksync.io/` <br />
 
+## Ordinals / Inscriptions
+
+`.ordinals.com/` <br />
+`.ord.io/` <br />
+`.unisat.io/` <br />
+
 ## Block-Chain Explorers
 
 `.binplorer.com/` <br />
 `.bitquery.io/` <br />
 `.bscscan.com/` <br />
+`.chainid.network/` <br />
+`.chainlist.org/` <br />
 `.coingecko.com/` <br />
 `.covalenthq.com/` <br />
 `.etherscan.io/` <br />
 `.goldrush.dev/` <br />
+`.relay.link/` <br />
 `.thegraph.com/` <br />
 
 ## IPFS Gateways
