@@ -8,35 +8,46 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 
 `.0xrpc.io/` <br />
 `.1rpc.io/` <br />
+`.48.club/` <br />
 `.alchemy.com/` <br />
 `.allnodes.com/` <br />
 `.allthatnode.com/` <br />
 `.ankr.com/` <br />
+`.binance.org/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
 `.blockpi.io/` <br />
+`.blockpi.network/` <<br />
 `.blxrbdn.com/` <br />
 `.blockfrost.io` <br />
+`.bnbchain.org/` <br />
 `.chainbase.com/` <br />
+`.defibit.io/` <br />
 `.drpc.org/` <br />
 `.dysnix.com/` <br />
 `.exaion.com/` <br />
 `.f5nodes.com/` <br />
 `.flashbots.net/` <br />
+`.gelato.digital/` <br />
 `.helius.dev/` <br />
 `.infura.io/` <br />
 `.lavanet.xyz/` <br />
 `.lavenderfive.com/` <br />
+`.linea.build/` <br />
 `.llamanodes.com/` <br />
 `.llamarpc.com/` <br />
+`.meowrpc.com/` <br />
 `.merkle.io/` <br />
 `.metamask.io` <br />
+`.ninicoin.io/` <br />
 `.nirvanalabs.io/` <br />
 `.nodely.io/` <br />
+`.nodereal.io.` <br />
 `.nodeshub.online/` <br />
 `.nodit.io/` <br />
 `.nownodes.io/` <br />
 `.omniatech.io/` <br />
+`.onfinality.io/` <br />
 `.publicnode.com/` <br />
 `.quicknode.com/` <br />
 `.quicknode.pro/` <br />
@@ -106,3 +117,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.dweb.link/` <br />
 `.ipfs.io/` <br />
 `.pinata.cloud/` <br />
+
+## Resources
+
+[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades)
