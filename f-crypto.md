@@ -17,7 +17,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
 `.blockpi.io/` <br />
-`.blockpi.network/` <<br />
+`.blockpi.network/` <br />
 `.blxrbdn.com/` <br />
 `.blockfrost.io` <br />
 `.bnbchain.org/` <br />
@@ -120,4 +120,5 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 
 ## Resources
 
-[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades)
+[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades) 2026-04-14
+[EtherRAT: DPRK uses novel Ethereum implant in React2Shell attacks - SysDig](https://www.sysdig.com/blog/etherrat-dprk-uses-novel-ethereum-implant-in-react2shell-attacks) 2025-12-08
