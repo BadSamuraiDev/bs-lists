@@ -136,6 +136,7 @@
 .surge.sh/
 .synergize.co/
 .talk4fun.net/
+.taskade.site/
 .thats.im/
 .tiiny.site/
 .tilda.ws/
