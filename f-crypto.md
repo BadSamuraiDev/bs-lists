@@ -17,7 +17,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.blastapi.io/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
-`.blockfrost.io` <br />
+`.blockfrost.io.` <br />
 `.blockpi.io/` <br />
 `.blockpi.network/` <br />
 `.blxrbdn.com/` <br />
