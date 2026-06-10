@@ -14,12 +14,13 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.allthatnode.com/` <br />
 `.ankr.com/` <br />
 `.binance.org/` <br />
+`.blastapi.io/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
+`.blockfrost.io` <br />
 `.blockpi.io/` <br />
 `.blockpi.network/` <br />
 `.blxrbdn.com/` <br />
-`.blockfrost.io` <br />
 `.bnbchain.org/` <br />
 `.chainbase.com/` <br />
 `.defibit.io/` <br />
@@ -31,7 +32,9 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.gateway.tatum.io/` <br />
 `.gelato.digital/` <br />
 `.helius.dev/` <br />
+`.hypersync.xyz/` <br />
 `.infura.io/` <br />
+`.lava.build/` <br />
 `.lavanet.xyz/` <br />
 `.lavenderfive.com/` <br />
 `.linea.build/` <br />
@@ -45,6 +48,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.nodely.io/` <br />
 `.nodereal.io.` <br />
 `.nodeshub.online/` <br />
+`.nodies.app/` <br />
 `.nodit.io/` <br />
 `.nownodes.io/` <br />
 `.omniatech.io/` <br />
@@ -52,11 +56,14 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.publicnode.com/` <br />
 `.quicknode.com/` <br />
 `.quicknode.pro/` <br />
+`.quiknode.pro/` <br />
 `.rpcfast.com/` <br />
 `.settlemint.com/` <br />
 `.shyft.network/` <br />
+`.subquery.network/` <br />
 `.syndica.io/` <br />
 `.tenderly.co/` <br />
+`.therpc.io/` <br />
 `.triton.one/` <br />
 `.zan.top/` <br />
 
