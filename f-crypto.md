@@ -28,6 +28,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.exaion.com/` <br />
 `.f5nodes.com/` <br />
 `.flashbots.net/` <br />
+`.gateway.tatum.io/` <br />
 `.gelato.digital/` <br />
 `.helius.dev/` <br />
 `.infura.io/` <br />
