@@ -17,7 +17,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.blastapi.io/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
-`.blockfrost.io.` <br />
+`.blockfrost.io/` <br />
 `.blockpi.io/` <br />
 `.blockpi.network/` <br />
 `.blxrbdn.com/` <br />
@@ -46,7 +46,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.ninicoin.io/` <br />
 `.nirvanalabs.io/` <br />
 `.nodely.io/` <br />
-`.nodereal.io.` <br />
+`.nodereal.io/` <br />
 `.nodeshub.online/` <br />
 `.nodies.app/` <br />
 `.nodit.io/` <br />
