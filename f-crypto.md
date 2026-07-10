@@ -16,10 +16,10 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.binance.org/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
+`.blockfrost.io/` <br />
 `.blockpi.io/` <br />
 `.blockpi.network/` <br />
 `.blxrbdn.com/` <br />
-`.blockfrost.io` <br />
 `.bnbchain.org/` <br />
 `.chainbase.com/` <br />
 `.defibit.io/` <br />
@@ -28,9 +28,15 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.exaion.com/` <br />
 `.f5nodes.com/` <br />
 `.flashbots.net/` <br />
+`.tatum.io/` <br />
 `.gelato.digital/` <br />
+`.getblock.io/` <br />
+`.getblock.us/` <br />
+`.getblock.asia/` <br />
 `.helius.dev/` <br />
+`.hypersync.xyz/` <br />
 `.infura.io/` <br />
+`.lava.build/` <br />
 `.lavanet.xyz/` <br />
 `.lavenderfive.com/` <br />
 `.linea.build/` <br />
@@ -42,8 +48,9 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.ninicoin.io/` <br />
 `.nirvanalabs.io/` <br />
 `.nodely.io/` <br />
-`.nodereal.io.` <br />
+`.nodereal.io/` <br />
 `.nodeshub.online/` <br />
+`.nodies.app/` <br />
 `.nodit.io/` <br />
 `.nownodes.io/` <br />
 `.omniatech.io/` <br />
@@ -51,11 +58,14 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.publicnode.com/` <br />
 `.quicknode.com/` <br />
 `.quicknode.pro/` <br />
+`.quiknode.pro/` <br />
 `.rpcfast.com/` <br />
 `.settlemint.com/` <br />
 `.shyft.network/` <br />
+`.subquery.network/` <br />
 `.syndica.io/` <br />
 `.tenderly.co/` <br />
+`.therpc.io/` <br />
 `.triton.one/` <br />
 `.zan.top/` <br />
 
@@ -118,7 +128,14 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.ipfs.io/` <br />
 `.pinata.cloud/` <br />
 
+## Defunct Crypto Domains
+
+Suggested block since we don't know what these might turn into later.
+
+`.blastapi.io/` <br />
+
 ## Resources
 
-[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades) 2026-04-14
-[EtherRAT: DPRK uses novel Ethereum implant in React2Shell attacks - SysDig](https://www.sysdig.com/blog/etherrat-dprk-uses-novel-ethereum-implant-in-react2shell-attacks) 2025-12-08
+[EtherHiding: Hunting and Prevention - IFIN](https://ifin-intel.org/blog/etherhiding/) 2026-06-17  <br />
+[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades) 2026-04-14  <br />
+[EtherRAT: DPRK uses novel Ethereum implant in React2Shell attacks - SysDig](https://www.sysdig.com/blog/etherrat-dprk-uses-novel-ethereum-implant-in-react2shell-attacks) 2025-12-08  <br />
