@@ -6,6 +6,7 @@
 .dataplicity.com/
 .devtunnels.ms/
 .expose.dev/
+.gsocket.io/
 .gw.run/
 .hoppy.network/
 .hrzn.run/
@@ -55,5 +56,10 @@
 .tunnelmole.net/
 .tunnelto.dev/
 .tunnl.gg/
+
+
+Software downloads and git repos
+
+github.com/hackerschoice/gsocket/
 .tuns.sh/
 .zrok.io/
