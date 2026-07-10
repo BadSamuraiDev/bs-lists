@@ -14,7 +14,6 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.allthatnode.com/` <br />
 `.ankr.com/` <br />
 `.binance.org/` <br />
-`.blastapi.io/` <br />
 `.blockdaemon.com/` <br />
 `.blockeden.xyz/` <br />
 `.blockfrost.io/` <br />
@@ -29,8 +28,11 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.exaion.com/` <br />
 `.f5nodes.com/` <br />
 `.flashbots.net/` <br />
-`.gateway.tatum.io/` <br />
+`.tatum.io/` <br />
 `.gelato.digital/` <br />
+`.getblock.io/` <br />
+`.getblock.us/` <br />
+`.getblock.asia/` <br />
 `.helius.dev/` <br />
 `.hypersync.xyz/` <br />
 `.infura.io/` <br />
@@ -126,7 +128,14 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.ipfs.io/` <br />
 `.pinata.cloud/` <br />
 
+## Defunct Crypto Domains
+
+Suggested block since we don't know what these might turn into later.
+
+`.blastapi.io/` <br />
+
 ## Resources
 
-[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades) 2026-04-14
-[EtherRAT: DPRK uses novel Ethereum implant in React2Shell attacks - SysDig](https://www.sysdig.com/blog/etherrat-dprk-uses-novel-ethereum-implant-in-react2shell-attacks) 2025-12-08
+[EtherHiding: Hunting and Prevention - IFIN](https://ifin-intel.org/blog/etherhiding/) 2026-06-17  <br />
+[EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades - Atos](https://atos.net/en/lp/cybershield/etherrat-distribution-spoofing-administrative-tools-via-github-facades) 2026-04-14  <br />
+[EtherRAT: DPRK uses novel Ethereum implant in React2Shell attacks - SysDig](https://www.sysdig.com/blog/etherrat-dprk-uses-novel-ethereum-implant-in-react2shell-attacks) 2025-12-08  <br />
