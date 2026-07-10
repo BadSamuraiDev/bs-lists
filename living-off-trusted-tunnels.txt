@@ -56,10 +56,10 @@
 .tunnelmole.net/
 .tunnelto.dev/
 .tunnl.gg/
-
+.tuns.sh/
+.zrok.io/
 
 Software downloads and git repos
 
 github.com/hackerschoice/gsocket/
-.tuns.sh/
-.zrok.io/
+
