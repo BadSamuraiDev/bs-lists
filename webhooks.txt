@@ -9,6 +9,7 @@
 .requestcatcher.com/
 .requestinspector.com/
 .svix.com/
+.tunnelapi.in/
 .webhook.cool/
 .webhook.site/
 .webhookapp.dev/
