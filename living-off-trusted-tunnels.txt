@@ -6,12 +6,15 @@
 .dataplicity.com/
 .devtunnels.ms/
 .expose.dev/
+.free-tunnelapi.app/
 .gsocket.io/
 .gw.run/
 .hoppy.network/
 .hrzn.run/
 .inlets.dev/
 .loca.lt/
+.localcan.com/
+.localcan.dev/
 .localhost.run/
 .localto.net/
 .localtonet.com/
@@ -28,6 +31,7 @@
 .ngrok.pro/
 .ngrok-free.app/
 .ngrok-free.dev/
+.optimistixtunnel.com//
 .packetriot.com/
 .packetriot.net/
 .pagekite.net/
@@ -39,10 +43,12 @@
 .ply.gg/
 .portmap.io/
 .rel.tunnels.api.visualstudio.com/
+.remote.it/
 .servegame.com/
 .serveo.net/
 .sharedwithexpose.com/
 .shellhub.io/
+.ssh-j.com/
 .sshreach.me/
 .ssi.sh/
 .staqlab.com/
@@ -52,6 +58,7 @@
 .telebit.fun/
 .telebit.io/
 .tmate.io/
+.tunnelapi.in/
 .tunnelmole.com/
 .tunnelmole.net/
 .tunnelto.dev/
