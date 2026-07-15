@@ -118,6 +118,7 @@
 .pages.dev/
 .pagina.pro/
 .pantheonsite.io/
+.powr.io/
 .railway.app/
 .renderforestsites.com/
 .replit.app/
