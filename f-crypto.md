@@ -39,6 +39,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.lava.build/` <br />
 `.lavanet.xyz/` <br />
 `.lavenderfive.com/` <br />
+`.leorpc.com/` <br />
 `.linea.build/` <br />
 `.llamanodes.com/` <br />
 `.llamarpc.com/` <br />
@@ -55,6 +56,7 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.nownodes.io/` <br />
 `.omniatech.io/` <br />
 `.onfinality.io/` <br />
+`.pocket.network/` <br />
 `.publicnode.com/` <br />
 `.quicknode.com/` <br />
 `.quicknode.pro/` <br />
@@ -62,11 +64,13 @@ Commercial multi-chain and chain-specific RPC providers, MEV services, orderflow
 `.rpcfast.com/` <br />
 `.settlemint.com/` <br />
 `.shyft.network/` <br />
+`.solanavibestation.com/` <br />
 `.subquery.network/` <br />
 `.syndica.io/` <br />
 `.tenderly.co/` <br />
 `.therpc.io/` <br />
 `.triton.one/` <br />
+`.uniblock.dev/` <br />
 `.zan.top/` <br />
 
 ## Public & Foundation Chains
