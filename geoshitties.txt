@@ -179,5 +179,6 @@
 .yolasite.com/
 .yourwebsitespace.com/
 .zeabur.app/
+.zya.me/
 s3.amazonaws.com/appforest_uf/
 sites.google.com/view/
