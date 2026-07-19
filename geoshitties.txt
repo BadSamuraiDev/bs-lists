@@ -50,7 +50,10 @@
 .forms.app/
 .framer.ai/
 .framer.app/
+.framer.media/
+.framer.photos/
 .framer.website/
+.framer.wiki/
 .freehostia.com/
 .freehosting.com/
 .freesite.host/
