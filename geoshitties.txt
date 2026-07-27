@@ -57,6 +57,7 @@
 .framer.wiki/
 .freehostia.com/
 .freehosting.com/
+.free.nf/
 .freesite.host/
 .freewebspace.com/
 .gamma.app/docs/
