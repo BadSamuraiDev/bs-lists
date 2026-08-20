@@ -93,6 +93,7 @@
 .snippleaf.com/
 .snipplr.com/
 .sprunge.us/
+.telegra.ph/
 .temp.sh/
 .tempisite.com/
 .tempshare.io/
