@@ -52,7 +52,7 @@ List of domains and LinkedIn URLs of AI Meeting Notetakers, designed to join Tea
 
 [New Teams Policy Controls Meeting Recording and Notetaking Bots](https://office365itpros.com/2026/08/24/teams-meeting-notetaking-bots/) August 24, 2026
 
-## AI Notetakers Beak Attorney-Client-Privilege
+## AI Notetakers and Attorney-Client-Privilege
 
 - [AI Notetaking Privilege Risks](https://www.gruensteinlaw.com/news-memos/ai-notetaking-privilege-risks) - Gruenstein Law, March 30, 2026
 
